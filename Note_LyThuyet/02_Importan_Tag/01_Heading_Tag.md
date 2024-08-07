@@ -1,5 +1,5 @@
 # Thẻ h1
-
+- Cần phải có
 ## Chức năng và lợi ích
 
 - **Công cụ tìm kiếm:** Giúp công cụ tìm kiếm hiểu nội dung & cấu trúc của trang web (theo phát biểu của nhân viên Google).

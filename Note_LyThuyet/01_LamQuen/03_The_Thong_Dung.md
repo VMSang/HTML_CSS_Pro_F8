@@ -1,4 +1,4 @@
-# Boilerplate trong lập trình
+## Boilerplate trong lập trình
 
 Boilerplate được coi là những đoạn code được tiêu chuẩn hóa và tái sử dụng ở nhiều nơi mà ít khi có sự thay đổi.
 
